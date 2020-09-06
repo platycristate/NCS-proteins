@@ -1,0 +1,10 @@
+*swn
+*swo
+*swp
+__pycache__
+.ipynb_checkpoints
+x86_64
+*.dll
+Results
+Plans
+
