@@ -1,5 +1,5 @@
 xopen("$(NEURONHOME)/lib/hoc/noload.hoc")
 xopen("SK2017_L5PyramidMS96.hoc")
 load_file("nrngui.hoc")
-xopen("sessions/hpcafit.hoc")
+xopen("../sessions/hpcafit-2.ses")
 //xopen("insert.ses")
