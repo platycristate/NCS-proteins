@@ -7,7 +7,6 @@ import numpy as np
 import pickle
 
 style.use("seaborn")
-
 font = {'family' : 'monospace',
                 'weight' : 'normal',
                         'size'   : 12}
