@@ -228,7 +228,7 @@ proc load_3dcell() {
 }
 
 proc fig1d() {
-  load_3dcell("../cells/j4a.hoc") 
+  load_3dcell("cells/j4a.hoc") 
 }
 
 fig1d()
